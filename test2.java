@@ -1,3 +1,3 @@
-
-public class test2{
-    private int param;
+class test2{
+//    master code
+}
